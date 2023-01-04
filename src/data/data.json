@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Greek Salad",
+      "description": "Greek salad or horiatiki salad is a popular salad in Greek cuisine generally made with pieces of tomatoes, cucumbers, onion, feta cheese, and olives ",
+      "image": "https://images.unsplash.com/photo-1547496502-affa22d38842?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=977&q=80",
+      "price": 10.99
+    },
+    {
+      "id": 2,
+      "name": "Bruchetta",
+      "description": "Bruschetta is an antipasto from Italy consisting of grilled bread rubbed with garlic and topped with olive oil and salt. Variations may include toppings of ",
+      "image": "https://images.unsplash.com/photo-1622621746668-59fb299bc4d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=933&q=80",
+      "price": 30.54
+    },
+    {
+      "id": 3,
+      "name": "Lemon Desert",
+      "description": "The Particular Sadness of Lemon Cake is a 2010 novel by Aimee Bender. The story is about a young girl, Rose Edlestein, who has the ability to taste the",
+      "image": "https://images.unsplash.com/photo-1598795164852-d2b5472d8bbb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "price": 5.0
+    }
+  ]
+}

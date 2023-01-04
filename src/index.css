@@ -1,0 +1,10 @@
+.jumbotron {
+  padding: 1rem 2rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: 0.3rem;
+}
+
+.image-header {
+  max-width: 20rem;
+}
